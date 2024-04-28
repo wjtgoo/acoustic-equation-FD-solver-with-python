@@ -1,4 +1,4 @@
-# FWI-forward operator
+# Acoustic Forward Operator
 
 > Latex公式不渲染，可以看[README.pdf](./README.pdf)版本
 
