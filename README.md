@@ -1,5 +1,7 @@
 # FWI-forward operator
 
+> Latex公式不渲染，可以看[README.pdf](./README.pdf)版本
+
 ## 理论
 
 ### 一般形式
